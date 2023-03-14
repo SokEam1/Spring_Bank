@@ -1,0 +1,15 @@
+C:\Users\Student\repos\Spring_Bank\Spring_Bank\bin\Debug\net6.0\Spring_Bank.exe
+C:\Users\Student\repos\Spring_Bank\Spring_Bank\bin\Debug\net6.0\Spring_Bank.deps.json
+C:\Users\Student\repos\Spring_Bank\Spring_Bank\bin\Debug\net6.0\Spring_Bank.runtimeconfig.json
+C:\Users\Student\repos\Spring_Bank\Spring_Bank\bin\Debug\net6.0\Spring_Bank.dll
+C:\Users\Student\repos\Spring_Bank\Spring_Bank\bin\Debug\net6.0\Spring_Bank.pdb
+C:\Users\Student\repos\Spring_Bank\Spring_Bank\obj\Debug\net6.0\Spring_Bank.csproj.AssemblyReference.cache
+C:\Users\Student\repos\Spring_Bank\Spring_Bank\obj\Debug\net6.0\Spring_Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\repos\Spring_Bank\Spring_Bank\obj\Debug\net6.0\Spring_Bank.AssemblyInfoInputs.cache
+C:\Users\Student\repos\Spring_Bank\Spring_Bank\obj\Debug\net6.0\Spring_Bank.AssemblyInfo.cs
+C:\Users\Student\repos\Spring_Bank\Spring_Bank\obj\Debug\net6.0\Spring_Bank.csproj.CoreCompileInputs.cache
+C:\Users\Student\repos\Spring_Bank\Spring_Bank\obj\Debug\net6.0\Spring_Bank.dll
+C:\Users\Student\repos\Spring_Bank\Spring_Bank\obj\Debug\net6.0\refint\Spring_Bank.dll
+C:\Users\Student\repos\Spring_Bank\Spring_Bank\obj\Debug\net6.0\Spring_Bank.pdb
+C:\Users\Student\repos\Spring_Bank\Spring_Bank\obj\Debug\net6.0\Spring_Bank.genruntimeconfig.cache
+C:\Users\Student\repos\Spring_Bank\Spring_Bank\obj\Debug\net6.0\ref\Spring_Bank.dll
